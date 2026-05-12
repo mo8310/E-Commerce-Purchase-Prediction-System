@@ -41,7 +41,7 @@ Seven classifiers were benchmarked under identical conditions. **CatBoost** emer
 
 * **Academic Supervision:** Dr. Hanaa ZainEldin
 * **Teaching Assistant:** Eng. Shahd Elghitani
-* **Project Execution:** Mohamed Elalfy, Akram Ata, Mai Ahmed, Shahd Wael, Shahd Ahmed, Yasmin Ashraf, Tasnim Mohammed
+* **Project Execution:** Mohamed Elalfy, 
 
 
 <img width="1818" height="833" alt="Screenshot 2026-05-11 125409" src="https://github.com/user-attachments/assets/0d4af9f5-05a7-47d1-a9cc-d0e9ae176a22" />
